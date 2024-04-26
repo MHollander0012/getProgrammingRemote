@@ -83,4 +83,3 @@ Write code with the intent that someone else (including future you) will read it
   - Comments aren't executed.
   - Can be used to describe important parts of the code.
   - Should be used to help readers understand why the code is written in a particular way.
-  - 

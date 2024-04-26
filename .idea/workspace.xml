@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2db8832b-8464-4adf-98ba-76fce6dfebb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/auxil/sample.aux" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auxil/sample.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/breadBlackBox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/breadFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/developmentCycleA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/sample.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/sample.synctex.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit0_Intro.md" afterDir="false" />
+    <list default="true" id="2db8832b-8464-4adf-98ba-76fce6dfebb5" name="Changes" comment="Add unit1_VariablesTypesExpressionsAndStatements.md to project.">
+      <change beforePath="$PROJECT_DIR$/.idea/getProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/getProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit0_Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/unit0_Intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit1_VariablesTypesExpressionsAndStatements.md" beforeDir="false" afterPath="$PROJECT_DIR$/unit1_VariablesTypesExpressionsAndStatements.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +24,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2fSeCgVYHetACQnFKQTshyIRZKt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,10 +40,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "LaTeX.sample.executor": "Run",
+    "MATLAB_INTERPRETER": "\"C:\\Program Files\\MATLAB\\R2023b\\bin\\matlab.exe\"",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/mholl/Documents/repos/getProgrammingRemote",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="MatlabApplication">
+      <option name="FILE_PATH" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="PARAMETERS" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,6 +75,19 @@
       <option name="presentableId" value="Default" />
       <updated>1713798781429</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add unit1_VariablesTypesExpressionsAndStatements.md to project.">
+      <option name="closed" value="true" />
+      <created>1714084116143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714084116143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add unit1_VariablesTypesExpressionsAndStatements.md to project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add unit1_VariablesTypesExpressionsAndStatements.md to project." />
   </component>
 </project>

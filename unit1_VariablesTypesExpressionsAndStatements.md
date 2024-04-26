@@ -48,3 +48,20 @@
 
 **Note:** Python has a vew reserved words that can't be used as variable names. Many editors will highlight these special keywords.
 
+#### Variable Good Practices
+- Names should be meaningful and descriptive.
+- Underscores should be used to add space between variable words.
+- Variable names shouldn't be too long.
+- Be consistent.
+
+### Creating Variables
+
+- Must initialize the variableby assigning it ot an object using the equal sign. This binds the object to the variable name.
+
+### Updating a Variable
+
+- Simply type out the variable, an equal sign, and a new value to the right of the equal sign.
+
+## Object Types and Statements of Code
+
+- 
