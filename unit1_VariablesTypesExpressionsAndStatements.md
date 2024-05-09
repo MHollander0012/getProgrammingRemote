@@ -64,4 +64,76 @@
 
 ## Object Types and Statements of Code
 
-- 
+- Objects have:
+  - A type - Dictates the values they can have.
+  - Operations you can do with them.
+
+**An object type tells you what kinds of values the object can have.**
+
+Python has certain types of objects that are called 'primitives' or 'scalars'. These primitives are the basic building blocks for the language. These are built into the language. All other objects are made up of combinations of the primitives.
+
+Python's Five Primitives:
+
+- Integers
+- Floating Point
+- Booleans
+- Strings
+- Special (absence of a value)
+
+### Integers as Whole Numbers
+
+Python integers are *real* whole numbers. E.g., 0,1,2,5,1234,-4,-1000.
+
+Valid operations:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+You might have to surround negative numbers with parentheses in order to distinguish negative numbers from a subtraction operation depending on what you're doing.
+
+Incrementing
+
+```python
+x = x + 1
+```
+
+Shorthand for `x=x+1`:
+```python
+x += 1
+```
+
+Also valid:
+
+```python
+*=
+-=
+/=
+```
+
+**Note:** '1' can be replaced with any other value
+
+
+### Floating Point as Decimal Numbers
+
+Python floating points are objects whose values are *decimal* numbers (e.g., 0.0,1.2,3.1415927, -23.3).
+
+The division of two integers produces a floating point object.
+
+### Booleans as True/False Data
+
+Booleans = `bool` type.
+
+Two possible values:
+
+- True
+- False
+
+### Strings as Sequences of Characters
+
+A string is a sequence of characters surrounded by quotation marks. (e.g., `'hello','we're #1','m.ss.ng??'`)
+
+### The Absence of a Value
+
+Referred to as 'None', of type `NoneType`
