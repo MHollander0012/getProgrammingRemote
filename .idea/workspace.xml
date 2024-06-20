@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2db8832b-8464-4adf-98ba-76fce6dfebb5" name="Changes" comment="EOD edit 4/25.">
-      <change afterPath="$PROJECT_DIR$/hr2min.py" afterDir="false" />
+    <list default="true" id="2db8832b-8464-4adf-98ba-76fce6dfebb5" name="Changes" comment="Added unit2 markdown file.">
+      <change afterPath="$PROJECT_DIR$/unit2_Strings_Tuples_and_Interacting_with_the_User.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit1_VariablesTypesExpressionsAndStatements.md" beforeDir="false" afterPath="$PROJECT_DIR$/unit1_VariablesTypesExpressionsAndStatements.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +122,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715220022787</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="EOD edit 4/25.">
+      <option name="closed" value="true" />
+      <created>1715643358663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715643358663</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added hr2min.py">
+      <option name="closed" value="true" />
+      <created>1715643415150</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715643415150</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,7 +154,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add unit1_VariablesTypesExpressionsAndStatements.md to project." />
+    <MESSAGE value="hr2min.py added" />
     <MESSAGE value="EOD edit 4/25." />
-    <option name="LAST_COMMIT_MESSAGE" value="EOD edit 4/25." />
+    <MESSAGE value="added hr2min.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hr2min.py" />
   </component>
 </project>
